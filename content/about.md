@@ -1,8 +1,8 @@
-+++
-title = "About Hugo"
-date = "2014-04-09"
-image = 'read.jpg'
-+++
+---
+title: About Hugo
+date: '2014-04-09'
+image: /images/screenshot.png
+---
 
 Hugo is the **world’s fastest framework for building websites**. It is written in Go.
 
