@@ -26,3 +26,6 @@ models:
         label: Image
       - name: author
         type: string
+        label: Author
+      - name: ''
+        type: string
