@@ -17,7 +17,12 @@ models:
     fields:
       - name: title
         type: string
+        label: Title
       - name: date
         type: date
+        label: Date
       - name: image
         type: image
+        label: Image
+      - name: ''
+        type: string
