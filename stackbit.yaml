@@ -18,4 +18,4 @@ models:
       - name: title
         type: string
       - name: date
-        type: string
+        type: date
