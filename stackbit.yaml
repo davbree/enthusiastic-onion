@@ -28,4 +28,6 @@ models:
         type: string
         label: Author
       - name: tags
-        type: string
+        type: list
+        items:
+          type: string
