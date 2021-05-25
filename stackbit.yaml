@@ -33,5 +33,5 @@ models:
           type: string
       - name: description
         type: string
-      - name: ''
+      - name: categories
         type: string
