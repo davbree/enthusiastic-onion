@@ -19,5 +19,5 @@ models:
         type: string
       - name: date
         type: date
-      - name: ''
+      - name: image
         type: string
