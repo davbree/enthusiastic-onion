@@ -20,4 +20,4 @@ models:
       - name: date
         type: date
       - name: image
-        type: string
+        type: image
