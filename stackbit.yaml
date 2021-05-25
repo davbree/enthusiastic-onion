@@ -19,3 +19,5 @@ models:
         type: string
       - name: date
         type: date
+      - name: ''
+        type: string
