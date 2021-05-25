@@ -33,3 +33,5 @@ models:
           type: string
       - name: description
         type: string
+      - name: ''
+        type: string
